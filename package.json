@@ -1,6 +1,6 @@
 {
   "name": "moped-id",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ID generation and comparison for moped",
   "keywords": ["moped", "mongo", "mongodb", "db"],
   "dependencies": {},
