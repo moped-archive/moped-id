@@ -1,0 +1,17 @@
+{
+  "name": "moped-id",
+  "version": "0.0.0",
+  "description": "ID generation and comparison for moped",
+  "keywords": ["moped", "mongo", "mongodb", "db"],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mopedjs/moped-id.git"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT"
+}
