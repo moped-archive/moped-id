@@ -3,7 +3,7 @@
 ID generation and comparison for moped.  MopedIds are also MongoDB ids, so you can also use this module as a convenient method for handling/generating MongoDB ids on the client (using browserify).
 
 [![Build Status](https://img.shields.io/travis/mopedjs/moped-id/master.svg)](https://travis-ci.org/mopedjs/moped-id)
-[![Dependency Status](https://img.shields.io/gemnasium/mopedjs/moped-id.svg)](https://gemnasium.com/mopedjs/moped-id)
+[![Dependency Status](https://img.shields.io/david/mopedjs/moped-id.svg)](https://david-dm.org/mopedjs/moped-id)
 [![NPM version](https://img.shields.io/npm/v/moped-id.svg)](https://www.npmjs.org/package/moped-id)
 
 ## Installation
